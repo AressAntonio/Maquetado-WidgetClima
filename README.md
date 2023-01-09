@@ -23,13 +23,10 @@
     </tr>
     <tr>
      <td>
-      <img src="" alt="" width="400">
+      <img src="https://user-images.githubusercontent.com/99376135/211420464-d70c8b09-91c0-4c87-aca6-1b0e0228d903.png" alt="" width="400">
      </td>
      <td>
-      <img src="" alt="" width="400">
-     </td>
-     <td>
-      <img src="" alt="" width="400">
+      <img src="https://user-images.githubusercontent.com/99376135/211420498-68151404-849a-4d44-8d4c-151c3ff148b3.png" alt="" width="400">
      </td>
     </tr>
 </table>
